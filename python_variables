@@ -1,0 +1,96 @@
+
+# data types:
+#     --
+#     1) Integer
+#         --> 10, 20, -100, 
+    
+#     2) float
+#         10.0, 5.6
+    
+#     3) strings
+#         'this is a string'
+#         "his is also as ting"
+#         '''this is also a string'''
+#         """this is also a string"""
+        
+#         "10"
+        
+    # 4) boolean
+    #     True False
+    
+    # 5) complx
+    #     a + bj
+        
+    # spacial --> Data structure
+    #     List
+    #     tuple
+    #     set
+#         dictionry
+
+
+
+
+
+# functions
+                # 1) built in
+# 2) user define
+
+# xyz()
+
+# hello()
+
+
+
+# print()
+#     ---> help us to print anything on console
+
+# hlo = 8231823
+
+# print("Hellow world")
+
+# print('this is ok')
+
+# print(hlo)
+
+
+# a = 10
+
+# b = 20
+
+# c = a + b
+
+# # sep = 
+
+# print(a, b, "hello", c, c, c, c, "ok", sep = " - ")
+
+
+
+# a = 2
+
+# b = 4
+
+# c = a + b
+
+# print("the sum of", a, "and", b, "is :", c)
+
+# # f-string
+
+# print(f"the sum of {a} and {b} is : {c}")
+
+
+
+name = "Naresh"
+age = 25
+email = "naresh@gmail.com"
+phone_number = 8219836118
+
+print(f"my name is {name} \n and age is {age}, and my email\n id is {email} and\n phone number \nis {phone_number}")
+
+
+
+
+8219836118
+
+
+
+
