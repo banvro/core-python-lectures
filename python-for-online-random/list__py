@@ -1,0 +1,178 @@
+
+# zx = [12, 34, 3, "helloo", 10.4, 90]
+
+# print(zx)
+
+# print(zx[1])
+
+# print(zx[5])
+
+# print(zx[-1])
+
+# print(zx[-3])
+
+# print(zx[2 : 5])
+
+# print(type(zx))
+
+
+
+
+# zx = [12, 34, 3, "helloo", 10.4, 90]
+
+# to add new data
+# append() 
+#     --> adding new element at the last 
+
+# zx.append(1000)
+# zx.append("Nice")
+
+# print(zx)
+
+
+
+# zx = [12, 34, 3, "helloo", 10.4, 90]
+
+# insert()
+    # --> to add an elemnt at a particuler location
+
+# zx.insert(2, 1000)
+
+# zx.insert(0, "start")
+
+# print(zx)
+
+
+# zx = []
+
+# 1 ----- 20
+
+
+
+# [1, 2, 3 ----- 20]
+
+
+
+# zx = []
+
+# for i in range(1, 21):
+#     zx.append(i)
+
+#     print(zx)
+
+
+# 1 ---- 50
+
+# even = []
+# odd = []
+
+# for i in range(1, 51):
+    
+#     if i % 2 == 0:
+#         even.append(i)
+#     else:
+#         odd.append(i)
+
+# print(even)
+# print(odd)
+
+
+
+# t = []
+
+
+# ['2 x 10 = 20', '2 x 9 = 18', .....]
+
+# t = []
+
+# for i in range(10, 0, -1):
+#     t.append(f"2 x {i} = {2*i}")
+
+# print(t)
+
+
+
+
+# print(67)
+
+# print(chr(67))
+# print(chr(68))
+# print(chr(69))
+# print(chr(70))
+
+
+
+
+
+# for i in range(65, 70):
+#     print(chr(i))
+
+
+# zx = [12, 4, 45, 56, 67, 78, 8]
+
+# zx.pop()
+# zx.pop(1)
+
+# remove()
+# zx.remove(56)
+# zx.clear()
+
+# zx[2] = 1000
+
+# print(zx)
+
+
+# zx = 10023002304004340
+
+# [1, "ooo", "ooo", 2, 3, "ooo", 2, 3, "ooo"]
+
+
+# 1 --- 50
+
+# -5
+# -4
+# -3
+# -2
+# -1
+# 0
+# 1
+# 2
+# 3
+# 4
+# 5
+
+
+
+# zx = 10023002304004340
+
+# x = []
+
+# zx = str(zx)
+
+# for i in zx:
+#     if i == "0":
+#         x.append("ooo")
+#     else:
+#         x.append(i)
+
+# print(x)
+
+
+# zx = [23, 45, 467, 232, 1212, 3434, 7]
+
+# print(zx.index(1212))
+
+# print(zx)
+
+
+zx = 100002300405000034
+
+print(str(zx).count("0"))
+
+
+
+
+
+
+
+
