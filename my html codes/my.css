@@ -1,0 +1,55 @@
+.mody_blck {
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    padding: 37px;
+    border: 3px solid red;
+    background-color: yellow;
+    border-radius: 17px;
+}
+
+.side_text {
+    padding-left: 34px;
+    padding-right: 20px;
+    font-family: math;
+    font-size: 21px;
+}
+
+.text_e {
+    color: red;
+    background: #f3f30f;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.image_dic {
+    padding-left: 70px;
+}
+
+img {
+    border-radius: 18px;
+}
+
+.center_bich_image {
+    display: flex;
+    align-items: center;
+}
+
+.next_dic{
+        background: #04047e;
+    padding: 10px;
+    margin-top: 13px;
+    border: 3px solid red;
+    border-radius: 12px;
+}
+
+.pp{
+    color: yellow;
+    font-family: fantasy;
+}
+
+body{
+    margin-left : 10%; margin-right : 10%;     background: linear-gradient(58deg, black, blue, red, yellow, #00000038);
+}
